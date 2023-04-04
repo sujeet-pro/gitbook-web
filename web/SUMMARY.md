@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Everything Web](README.md)
+* [Software Architecture](README.md)
 
 ## System Design
 
