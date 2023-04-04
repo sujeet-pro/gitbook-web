@@ -1,10 +1,11 @@
 # Table of contents
 
-* [JavaScript](README.md)
+* [Tools & Technology](README.md)
 
-## Implementations
+## JavaScript <a href="#js" id="js"></a>
 
-* [LRU Cache](implementations/lru-cache.md)
+* [LRU Cache](js/lru-cache.md)
+* [Page 1](js/page-1.md)
 
 ## 🖊 Blog Notes
 
