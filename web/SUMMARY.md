@@ -42,6 +42,11 @@
 * [Design Typeahead](design-problems/design-typeahead.md)
 * [Design Google Docs](design-problems/design-google-docs.md)
 
+## Design Patterns
+
+* [Monads](design-patterns/monads.md)
+* [Singleton](design-patterns/singleton.md)
+
 ## Topics
 
 * [CAP Theorem](topics/cap-theorem.md)
